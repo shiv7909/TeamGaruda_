@@ -1,0 +1,2 @@
+C:/Users/shiva/project_evolve/android/app/.cxx/RelWithDebInfo/2n1e1dk2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/shiva/project_evolve/android/app/.cxx/RelWithDebInfo/2n1e1dk2/arm64-v8a/CMakeFiles/rebuild_cache.dir
